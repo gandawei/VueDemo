@@ -9,10 +9,13 @@ import router from './router'
 import './assets/style/border.css'
 import './assets/style/reset.css'
 import './config/rem'
-import 'styles/iconfont.css'
+import 'styles/iconfont/iconfont.css'
 import VueAwesomeSwiper from 'vue-awesome-swiper'
 import 'swiper/dist/css/swiper.css'
+import vuescroll from 'vuescroll';
+import 'vuescroll/dist/vuescroll.css';
 
+Vue.use(vuescroll);
 Vue.use(VueAwesomeSwiper)
 Vue.use(ElementUI)
 Vue.config.productionTip = false

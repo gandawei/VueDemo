@@ -1,0 +1,86 @@
+{
+  "id": "1838701",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "609192",
+      "name": "箭头",
+      "font_class": "jiantouarrowhead7",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "5334168",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "7119846",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "7120091",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e740",
+      "unicode_decimal": 59200
+    },
+    {
+      "icon_id": "7120353",
+      "name": "喜欢",
+      "font_class": "xihuan",
+      "unicode": "e742",
+      "unicode_decimal": 59202
+    },
+    {
+      "icon_id": "7120361",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "7120495",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e749",
+      "unicode_decimal": 59209
+    },
+    {
+      "icon_id": "970752",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "7549348",
+      "name": "搜索",
+      "font_class": "RectangleCopy",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "7549372",
+      "name": "智慧",
+      "font_class": "RectangleCopy1",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "9646514",
+      "name": "铃铛1",
+      "font_class": "lingdang",
+      "unicode": "e891",
+      "unicode_decimal": 59537
+    }
+  ]
+}

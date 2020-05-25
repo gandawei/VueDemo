@@ -1,19 +1,22 @@
 <template>
   <div>
     <home-header></home-header>
-    <home-swiper :swiperList="swiperList"></home-swiper>
-
+    <header-title></header-title>
+    <home-content></home-content>
+    <home-footer></home-footer>
   </div>
 </template>
 
 <script>
 
  import HomeHeader from './components/header'
- import HomeSwiper from './components/swiper'
+ import HeaderTitle from './components/title'
+ import HomeContent from "./components/Content"
+ import HomeFooter from './components/Footer'
  export default{
    name:'Home',
    components:{
-     HomeHeader,HomeSwiper
+     HomeHeader,HeaderTitle,HomeContent,HomeFooter
  },
  data () {
      return {
